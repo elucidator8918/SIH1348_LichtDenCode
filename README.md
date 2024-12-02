@@ -1,2 +1,1 @@
-# SIH1348_LichtDenCode
-Winner Solution of Smart India Hackathon 2023
+# SIH-2023
